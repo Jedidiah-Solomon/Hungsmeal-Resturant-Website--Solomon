@@ -9,7 +9,7 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 View the site at. [Hungsmeal Group](Hungsmeal-Resturant-Website--Solomon)
+💙 View the site at. [Hungsmeal Group](https://jedidiah-solomon.github.io/Hungsmeal-Resturant-Website--Solomon/))
 
 Contact Details: 
 > ***+2347062957194*** 
