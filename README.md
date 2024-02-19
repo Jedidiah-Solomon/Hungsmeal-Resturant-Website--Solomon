@@ -12,7 +12,7 @@
 💙 View the site at. [Hungsmeal Group](Hungsmeal-Resturant-Website--Solomon)
 
 Contact Details: 
-> ***+2347062957194*** >
+> ***+2347062957194*** 
 > 
 >> ***onwubikojedidiah@gmail.com***
 >
