@@ -1,6 +1,6 @@
-# Responsive Restaurant Website
-## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
-### Responsive Restaurant Website
+# Responsive Restaurant Website for Hungsmeal Group
+
+### Features
 
 - Responsive Restaurant Website Design Using HTML CSS & JavaScript
 - Contains animations when scrolling.
@@ -9,6 +9,13 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+💙 View the site at. [Hungsmeal Group](Hungsmeal-Resturant-Website--Solomon)
+
+Contact Details: 
+> ***+2347062957194*** >
+> 
+>> ***onwubikojedidiah@gmail.com***
+>
+>>> ***https://ng.linkedin.com/in/jedidiahonwubiko***
 
 ![preview img](/preview.png)
