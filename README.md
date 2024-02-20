@@ -15,18 +15,14 @@
 
 💙 View the site at. [Hungsmeal Group](https://jedidiah-solomon.github.io/Hungsmeal-Resturant-Website--Solomon/)
 
+```
 Contact Details:
  > ***+2347062957194*** 
 > 
 >> ***onwubikojedidiah@gmail.com***
 >
 >>> ***https://ng.linkedin.com/in/jedidiahonwubiko***
-copyCodeSnippet:
-  enable: true
-  buttonText: Click to copy
-  tooltipText: Copy code to clipboard
-  toasterText: Success!
-  toasterDuration: 2000
+```
 
 
 ![preview img](/preview.png)
