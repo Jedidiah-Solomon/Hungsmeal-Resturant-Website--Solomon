@@ -150,3 +150,8 @@ sr.reveal(`.home__data, .home__img,
 
 // Scroll reveal individually using the h2 .headline class in About Section
 ScrollReveal().reveal('.headline');
+
+// Typed.js usage of Library
+let typed = new Typed('#typed', {
+    stringsElement: '#typed-strings'
+  });
