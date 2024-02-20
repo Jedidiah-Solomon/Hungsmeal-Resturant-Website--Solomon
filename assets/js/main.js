@@ -33,7 +33,7 @@ for (let i = 0; i < navLink.length; i++) {
 const sections = document.querySelectorAll('section[id]')
 
 function scrollActive() {
-    const scrollY = window.pageYOffset;
+    const scrollY = window.scrollY;
 
     sections.forEach(function(current) {
         const sectionHeight = current.offsetHeight;
