@@ -11,7 +11,7 @@
 
 ### External Sites
 1. https://boxicons.com/ for box icons
-2. https://scrollrevealjs.org/
+2. https://scrollrevealjs.org/ for js animations for item revealing
 
 💙 View the site at. [Hungsmeal Group](https://jedidiah-solomon.github.io/Hungsmeal-Resturant-Website--Solomon/)
 
